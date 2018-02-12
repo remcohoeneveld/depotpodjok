@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:0D23941E-2AB0-4A4D-942A-7B6D35FDC758</id>
+ <title>Page list Atom feed</title>
+ <updated>2018-02-12T19:44:01+01:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:35BACC29-321A-44EC-AC70-C9BE22A9112C</id>
+  <title>menu</title>
+  <title xmlns="urn:iweb:">menu</title>
+  <in-navbar xmlns="urn:iweb:">35BACC29-321A-44EC-AC70-C9BE22A9112C</in-navbar>
+  <link rel="alternate" href="menu.html"/>
+  <updated>2018-02-12T19:44:01.001+01:00</updated>
+  <content>menu</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:0A4858F6-68DA-4C97-861A-EDAD1BD5B3C5</id>
+  <title>catering</title>
+  <title xmlns="urn:iweb:">catering</title>
+  <in-navbar xmlns="urn:iweb:">0A4858F6-68DA-4C97-861A-EDAD1BD5B3C5</in-navbar>
+  <link rel="alternate" href="catering.html"/>
+  <updated>2018-02-12T19:44:01.002+01:00</updated>
+  <content>catering</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:9F963D68-BCAA-4F9E-8EF9-BB367D25693A</id>
+  <title>contact</title>
+  <title xmlns="urn:iweb:">contact</title>
+  <in-navbar xmlns="urn:iweb:">9F963D68-BCAA-4F9E-8EF9-BB367D25693A</in-navbar>
+  <link rel="alternate" href="contact.html"/>
+  <updated>2018-02-12T19:44:01.003+01:00</updated>
+  <content>contact</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:AD869349-AC0C-41E1-9FEB-3CD2EF91CD3C</id>
+  <title>bedankt</title>
+  <title xmlns="urn:iweb:">bedankt</title>
+  <in-navbar xmlns="urn:iweb:">AD869349-AC0C-41E1-9FEB-3CD2EF91CD3C</in-navbar>
+  <link rel="alternate" href="bedankt.html"/>
+  <updated>2018-02-12T19:44:01.004+01:00</updated>
+  <content>bedankt</content>
+ </entry>
+</feed>
