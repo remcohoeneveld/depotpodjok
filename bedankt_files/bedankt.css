@@ -342,7 +342,8 @@ a:hover {
     line-height: 1px;
 }
 .tinyText {
-    font-size: 1px;
+    font-size: 15px;
+    color: white;
     line-height: 1px;
 }
 .spacer {
