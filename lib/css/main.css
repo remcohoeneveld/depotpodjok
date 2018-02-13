@@ -95,12 +95,10 @@ body {
     position: relative;
     word-wrap: break-word;
     text-align: left;
-    width: 1024px;
 }
 
 .content-bg {
     background: transparent url(../images/WERKUDARA.png) repeat scroll top left;
-    width: 1024px;
 }
 
 .navbar {
