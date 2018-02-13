@@ -2,21 +2,151 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21144ab5-3ac1-4401-8a93-eab9bc30e04c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/menu_files/shapeimage_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bedankt_files/shapeimage_1.png" afterPath="$PROJECT_DIR$/bedankt_files/shapeimage_1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catering_files/shapeimage_1.png" afterPath="$PROJECT_DIR$/catering_files/shapeimage_1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact_files/shapeimage_1.png" afterPath="$PROJECT_DIR$/contact_files/shapeimage_1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Index.html" afterPath="$PROJECT_DIR$/Index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Index_files/Index.css" afterPath="$PROJECT_DIR$/Index_files/Index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bedankt.html" afterPath="$PROJECT_DIR$/bedankt.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bedankt_files/bedankt.css" afterPath="$PROJECT_DIR$/bedankt_files/bedankt.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catering.html" afterPath="$PROJECT_DIR$/catering.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catering_files/catering.css" afterPath="$PROJECT_DIR$/catering_files/catering.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact_files/contact.css" afterPath="$PROJECT_DIR$/contact_files/contact.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menu.html" afterPath="$PROJECT_DIR$/menu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menu_files/menu.css" afterPath="$PROJECT_DIR$/menu_files/menu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/bedankt.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/catering.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/contact.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/contact.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/error.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/menu.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Index_files/Index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Index_files/Index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bedankt.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bedankt_files/WERKUDARA.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bedankt_files/backgroundimage_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bedankt_files/backgroundimage_2_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bedankt_files/bedankt.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bedankt_files/bedankt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bedankt_files/bedanktIE.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bedankt_files/bedanktMoz.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bedankt_files/shapeimage_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bedankt_files/shapeimage_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bedankt_files/shapeimage_2_link_0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bedankt_files/shapeimage_2_rollover_0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bedankt_files/stroke.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bedankt_files/stroke_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bedankt_files/stroke_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bedankt_files/stroke_3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bedankt_files/stroke_4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bedankt_files/stroke_5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bedankt_files/stroke_6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bedankt_files/stroke_7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/catering.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/catering_files/WERKUDARA.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/catering_files/backgroundimage_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/catering_files/backgroundimage_2_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/catering_files/catering.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/catering_files/cateringIE.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/catering_files/cateringMoz.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/catering_files/shapeimage_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/catering_files/shapeimage_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/catering_files/shapeimage_3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/catering_files/shapeimage_5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/catering_files/shapeimage_5_link_0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/catering_files/shapeimage_5_rollover_0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/catering_files/stroke.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/catering_files/stroke_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/catering_files/stroke_10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/catering_files/stroke_11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/catering_files/stroke_12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/catering_files/stroke_13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/catering_files/stroke_14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/catering_files/stroke_15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/catering_files/stroke_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/catering_files/stroke_3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/catering_files/stroke_4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/catering_files/stroke_5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/catering_files/stroke_6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/catering_files/stroke_7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/catering_files/stroke_8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/catering_files/stroke_9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/contact.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/contact_files/WERKUDARA.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/contact_files/backgroundimage_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/contact_files/backgroundimage_2_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/contact_files/contact.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/contact_files/contact.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/contact_files/contactIE.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/contact_files/contactMoz.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/contact_files/shapeimage_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/contact_files/shapeimage_3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/contact_files/shapeimage_3_link_0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/contact_files/shapeimage_3_rollover_0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/contact_files/stroke.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/contact_files/stroke_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/contact_files/stroke_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/contact_files/stroke_3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/contact_files/stroke_4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/contact_files/stroke_5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/contact_files/stroke_6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/contact_files/stroke_7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/contact_files/widget0_markup.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/contact_files/widget1_markup.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/menu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/menu_files/WERKUDARA.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/menu_files/backgroundimage_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/menu_files/backgroundimage_2_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/menu_files/menu.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/menu_files/menu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/menu_files/menuIE.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/menu_files/menuMoz.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/menu_files/shapeimage_1 (2).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/menu_files/shapeimage_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/menu_files/shapeimage_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/menu_files/shapeimage_2_link_0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/menu_files/shapeimage_2_rollover_0.png" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Index_files/IndexIE.css" afterPath="$PROJECT_DIR$/lib/css/IndexIE.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Index_files/IndexMoz.css" afterPath="$PROJECT_DIR$/lib/css/IndexMoz.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Index_files/WERKUDARA.png" afterPath="$PROJECT_DIR$/lib/images/WERKUDARA.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Index_files/backgroundimage_1.jpg" afterPath="$PROJECT_DIR$/lib/images/header_img.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Index_files/backgroundimage_2_1.png" afterPath="$PROJECT_DIR$/lib/images/symbol.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Index_files/shapeimage_1.png" afterPath="$PROJECT_DIR$/lib/images/shapeimage_1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Index_files/shapeimage_2.png" afterPath="$PROJECT_DIR$/lib/images/shapeimage_2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Index_files/shapeimage_3.png" afterPath="$PROJECT_DIR$/lib/images/shapeimage_3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Index_files/shapeimage_4.png" afterPath="$PROJECT_DIR$/lib/images/shapeimage_4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Index_files/shapeimage_5.png" afterPath="$PROJECT_DIR$/lib/images/shapeimage_5.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Index_files/shapeimage_5_link_0.png" afterPath="$PROJECT_DIR$/lib/images/shapeimage_5_link_0.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Index_files/shapeimage_5_rollover_0.png" afterPath="$PROJECT_DIR$/lib/images/shapeimage_5_rollover_0.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Index_files/stroke.png" afterPath="$PROJECT_DIR$/lib/images/stroke.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Index_files/stroke_1.png" afterPath="$PROJECT_DIR$/lib/images/stroke_1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Index_files/stroke_10.png" afterPath="$PROJECT_DIR$/lib/images/stroke_10.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Index_files/stroke_11.png" afterPath="$PROJECT_DIR$/lib/images/stroke_11.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Index_files/stroke_12.png" afterPath="$PROJECT_DIR$/lib/images/stroke_12.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Index_files/stroke_13.png" afterPath="$PROJECT_DIR$/lib/images/stroke_13.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Index_files/stroke_14.png" afterPath="$PROJECT_DIR$/lib/images/stroke_14.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Index_files/stroke_15.png" afterPath="$PROJECT_DIR$/lib/images/stroke_15.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Index_files/stroke_2.png" afterPath="$PROJECT_DIR$/lib/images/stroke_2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Index_files/stroke_3.png" afterPath="$PROJECT_DIR$/lib/images/stroke_3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Index_files/stroke_4.png" afterPath="$PROJECT_DIR$/lib/images/stroke_4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Index_files/stroke_5.png" afterPath="$PROJECT_DIR$/lib/images/stroke_5.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Index_files/stroke_6.png" afterPath="$PROJECT_DIR$/lib/images/stroke_6.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Index_files/stroke_7.png" afterPath="$PROJECT_DIR$/lib/images/stroke_7.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Index_files/stroke_8.png" afterPath="$PROJECT_DIR$/lib/images/stroke_8.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Index_files/stroke_9.png" afterPath="$PROJECT_DIR$/lib/images/stroke_9.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Media/IE8.css" afterPath="$PROJECT_DIR$/lib/Media/IE8.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Media/transparent.gif" afterPath="$PROJECT_DIR$/lib/Media/transparent.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Scripts/Widgets/HTMLRegion/Default.png" afterPath="$PROJECT_DIR$/lib/js/Widgets/HTMLRegion/Default.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Scripts/Widgets/HTMLRegion/HTMLRegionWorldMap.png" afterPath="$PROJECT_DIR$/lib/js/Widgets/HTMLRegion/HTMLRegionWorldMap.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Scripts/Widgets/HTMLRegion/Icon.png" afterPath="$PROJECT_DIR$/lib/js/Widgets/HTMLRegion/Icon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Scripts/Widgets/HTMLRegion/Paste.css" afterPath="$PROJECT_DIR$/lib/js/Widgets/HTMLRegion/Paste.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Scripts/Widgets/HTMLRegion/Paste.js" afterPath="$PROJECT_DIR$/lib/js/Widgets/HTMLRegion/Paste.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Scripts/Widgets/SharedResources/None.gif" afterPath="$PROJECT_DIR$/lib/js/Widgets/SharedResources/None.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Scripts/Widgets/SharedResources/Translucent-Overlay.png" afterPath="$PROJECT_DIR$/lib/js/Widgets/SharedResources/Translucent-Overlay.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Scripts/Widgets/SharedResources/WidgetCommon.js" afterPath="$PROJECT_DIR$/lib/js/Widgets/SharedResources/WidgetCommon.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Scripts/iWebImage.js" afterPath="$PROJECT_DIR$/lib/js/iWebImage.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Scripts/iWebMediaGrid.js" afterPath="$PROJECT_DIR$/lib/js/iWebMediaGrid.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Scripts/iWebSite.js" afterPath="$PROJECT_DIR$/lib/js/iWebSite.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/catering_files/148899_3485280848373_624824431_n.jpg" afterPath="$PROJECT_DIR$/lib/images/catering1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/catering_files/181393_3490616901771_437518493_n.jpg" afterPath="$PROJECT_DIR$/lib/images/catering2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/catering_files/catering.css" afterPath="$PROJECT_DIR$/lib/css/main.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/catering_files/shapeimage_4.png" afterPath="$PROJECT_DIR$/lib/images/catering.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/contact_files/shapeimage_2.png" afterPath="$PROJECT_DIR$/lib/images/contact.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/menu_files/page 1_menu_depotpodjok_nl_18.06.2017.pdf" afterPath="$PROJECT_DIR$/lib/images/page 1_menu_depotpodjok_nl_18.06.2017.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/menu_files/page 1_menu_depotpodjok_nl_18.06.2017.png" afterPath="$PROJECT_DIR$/lib/images/page 1_menu_depotpodjok_nl_18.06.2017.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/menu_files/page 2_menu_depotpodjok_nl_18.06.2017.pdf" afterPath="$PROJECT_DIR$/lib/images/page 2_menu_depotpodjok_nl_18.06.2017.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/menu_files/page 2_menu_depotpodjok_nl_18.06.2017.png" afterPath="$PROJECT_DIR$/lib/images/page 2_menu_depotpodjok_nl_18.06.2017.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,105 +156,41 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="menu.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/menu.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="507">
-              <caret line="141" column="0" lean-forward="false" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
-              <folding>
-                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#3;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#4;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Index.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Index_files/Index.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="538">
-              <caret line="340" column="0" lean-forward="true" selection-start-line="340" selection-start-column="0" selection-end-line="344" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contact.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contact_files/contact.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="383">
-              <caret line="353" column="1" lean-forward="false" selection-start-line="353" selection-start-column="1" selection-end-line="353" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="catering.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/catering_files/catering.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="383">
-              <caret line="375" column="1" lean-forward="false" selection-start-line="375" selection-start-column="1" selection-end-line="375" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bedankt.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bedankt_files/bedankt.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="383">
-              <caret line="347" column="1" lean-forward="false" selection-start-line="347" selection-start-column="1" selection-end-line="347" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="shapeimage_1.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Index_files/shapeimage_1.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="menu.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/menu_files/menu.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="262" column="21" lean-forward="false" selection-start-line="262" selection-start-column="21" selection-end-line="262" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>tinytext</find>
       <find>.tiny</find>
       <find>1px</find>
+      <find>bumper</find>
+      <find>skipstroke</find>
+      <find>paragrap</find>
+      <find>.style_SkipStroke</find>
+      <find>style_skip</find>
+      <find>#header</find>
+      <find>black</find>
+      <find>ul</find>
+      <find>padding</find>
+      <find>shapeimage_4</find>
+      <find>footer</find>
+      <find>Normal</find>
+      <find>page-b</find>
+      <find>text</find>
+      <find>footer-cont</find>
+      <find>paragraph</find>
+      <find>margin-left</find>
+      <find>.navbar</find>
+      <find>align-right</find>
+      <find>text-content</find>
+      <find>50px</find>
+      <find>id5</find>
+      <find>.row</find>
+      <find>welkom</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -132,31 +198,55 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Index.html" />
-        <option value="$PROJECT_DIR$/contact.html" />
-        <option value="$PROJECT_DIR$/catering.html" />
         <option value="$PROJECT_DIR$/bedankt.html" />
-        <option value="$PROJECT_DIR$/menu.html" />
-        <option value="$PROJECT_DIR$/Index_files/Index.css" />
         <option value="$PROJECT_DIR$/contact_files/contact.css" />
         <option value="$PROJECT_DIR$/catering_files/catering.css" />
         <option value="$PROJECT_DIR$/bedankt_files/bedankt.css" />
         <option value="$PROJECT_DIR$/menu_files/menu.css" />
+        <option value="$PROJECT_DIR$/Index.html" />
+        <option value="$PROJECT_DIR$/Index_files/Index.css" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Index_files/main.css" />
+        <option value="$PROJECT_DIR$/pages/menu.html" />
+        <option value="$PROJECT_DIR$/menu.html" />
+        <option value="$PROJECT_DIR$/catering.html" />
+        <option value="$PROJECT_DIR$/lib/css/main.css" />
+        <option value="$PROJECT_DIR$/pages/catering.html" />
+        <option value="$PROJECT_DIR$/pages/contact.html" />
+        <option value="$PROJECT_DIR$/pages/contactengine.php" />
+        <option value="$PROJECT_DIR$/error.html" />
+        <option value="$PROJECT_DIR$/contact.html" />
+        <option value="$PROJECT_DIR$/lib/NiceSimpleContactForm/contactengine.php" />
+        <option value="$PROJECT_DIR$/contactengine.php" />
+        <option value="$PROJECT_DIR$/contactform.php" />
+        <option value="$PROJECT_DIR$/Simple-PHP-Contact-Form-master/contact-form/config/config.php" />
+        <option value="$PROJECT_DIR$/contactthanks.php" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/pages/contact.php" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="494" />
-    <option name="y" value="272" />
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.6.32" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="22" />
+    <option name="width" value="960" />
+    <option name="height" value="1009" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -173,7 +263,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -181,33 +271,32 @@
               <item name="depotpodjok" type="b2602c69:ProjectViewProjectNode" />
               <item name="depotpodjok" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="depotpodjok" type="b2602c69:ProjectViewProjectNode" />
-              <item name="depotpodjok" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Index_files" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="depotpodjok" type="b2602c69:ProjectViewProjectNode" />
-              <item name="depotpodjok" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="menu_files" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pages" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/lib" />
+      <recent name="$PROJECT_DIR$/lib/images" />
+      <recent name="$PROJECT_DIR$/lib/js" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\depotpodjok\menu_files" />
-      <recent name="C:\xampp\htdocs\depotpodjok\bedankt_files" />
-      <recent name="C:\xampp\htdocs\depotpodjok\catering_files" />
-      <recent name="C:\xampp\htdocs\depotpodjok\contact_files" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/lib" />
+      <recent name="$PROJECT_DIR$/lib/js" />
+      <recent name="$PROJECT_DIR$/contact_files" />
+      <recent name="$PROJECT_DIR$/lib/images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -233,32 +322,35 @@
       <option name="presentableId" value="Default" />
       <updated>1518471337995</updated>
       <workItem from="1518471339098" duration="1128000" />
+      <workItem from="1518515100118" duration="9624000" />
+      <workItem from="1518528195798" duration="5136000" />
+      <workItem from="1518533892168" duration="3283000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1128000" />
+    <option name="totallyTimeSpent" value="19171000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20553781" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969216" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -273,153 +365,220 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Scripts/iWebImage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1326">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <marker date="1518461048000" expanded="true" signature="22637:22655" ph="..." />
-            <marker date="1518461048000" expanded="true" signature="39087:39105" ph="..." />
-          </folding>
-        </state>
+    <entry file="file://$PROJECT_DIR$/menu_files/shapeimage_2_link_0.png" />
+    <entry file="file://$PROJECT_DIR$/menu_files/WERKUDARA.png" />
+    <entry file="file://$PROJECT_DIR$/menu_files/icon.png" />
+    <entry file="file://$PROJECT_DIR$/menu_files/header_img.jpg" />
+    <entry file="file://$PROJECT_DIR$/lib/images/stroke_3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Scripts/iWebSite.js">
+    <entry file="file://$PROJECT_DIR$/lib/images/stroke_2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/images/stroke_1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/images/symbol.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/images/header_img.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/images/shapeimage_1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Index_files/Index.js" />
+    <entry file="file://$PROJECT_DIR$/lib/css/IndexIE.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/css/IndexMoz.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1214">
+          <caret line="95" column="49" lean-forward="false" selection-start-line="95" selection-start-column="49" selection-end-line="95" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="48" column="45" lean-forward="false" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catering_files/shapeimage_1.png" />
+    <entry file="file://$PROJECT_DIR$/catering_files/shapeimage_2.png" />
+    <entry file="file://$PROJECT_DIR$/catering_files/stroke_14.png" />
+    <entry file="file://$PROJECT_DIR$/catering_files/stroke_15.png" />
+    <entry file="file://$PROJECT_DIR$/catering_files/WERKUDARA.png" />
+    <entry file="file://$PROJECT_DIR$/catering_files/stroke.png" />
+    <entry file="file://$PROJECT_DIR$/catering_files/shapeimage_5_link_0.png" />
+    <entry file="file://$PROJECT_DIR$/catering_files/181393_3490616901771_437518493_n.jpg" />
+    <entry file="file://$PROJECT_DIR$/catering_files/148899_3485280848373_624824431_n.jpg" />
+    <entry file="file://$PROJECT_DIR$/catering_files/stroke_1.png" />
+    <entry file="file://$PROJECT_DIR$/catering_files/shapeimage_3.png" />
+    <entry file="file://$PROJECT_DIR$/catering_files/backgroundimage_1.jpg" />
+    <entry file="file://$PROJECT_DIR$/catering_files/backgroundimage_2_1.png" />
+    <entry file="file://$PROJECT_DIR$/catering_files/catering.css" />
+    <entry file="file://$PROJECT_DIR$/contact_files/shapeimage_3.png" />
+    <entry file="file://$PROJECT_DIR$/contact_files/shapeimage_2.png" />
+    <entry file="file://$PROJECT_DIR$/contact_files/NiceSimpleContactForm/index.html" />
+    <entry file="file://$PROJECT_DIR$/contact_files/NiceSimpleContactForm/contactengine.php" />
+    <entry file="file://$PROJECT_DIR$/contact_files/NiceSimpleContactForm/contactthanks.php" />
+    <entry file="file://$PROJECT_DIR$/contact_files/contact.js" />
+    <entry file="file://$PROJECT_DIR$/lib/js/contact.js" />
+    <entry file="file://$PROJECT_DIR$/pages/error.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="766">
+          <caret line="59" column="14" lean-forward="true" selection-start-line="59" selection-start-column="14" selection-end-line="59" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/NiceSimpleContactForm/contactengine.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="36" lean-forward="false" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/NiceSimpleContactForm/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contactform.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Simple-PHP-Contact-Form-master/contact-form/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="28" lean-forward="true" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Simple-PHP-Contact-Form-master/contact-form/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-764">
+          <caret line="25" column="5" lean-forward="false" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Simple-PHP-Contact-Form-master/s6.d/php/run">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bedankt.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="107" column="0" lean-forward="true" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
+        <state relative-caret-position="135">
+          <caret line="9" column="38" lean-forward="false" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="871">
+          <caret line="599" column="1" lean-forward="false" selection-start-line="599" selection-start-column="1" selection-end-line="599" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/catering.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="39" column="21" lean-forward="false" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="255">
+            <caret line="15" column="55" lean-forward="false" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/bedankt.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="55" column="305" lean-forward="false" selection-start-line="55" selection-start-column="305" selection-end-line="55" selection-end-column="305" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="62" column="18" lean-forward="false" selection-start-line="62" selection-start-column="18" selection-end-line="62" selection-end-column="18" />
           <folding>
-            <element signature="n#style#0;n#div#1;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#1244#1249#0" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#p#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#2;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#4;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/catering.html">
+    <entry file="file://$PROJECT_DIR$/pages/contact.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="557">
-          <caret line="148" column="12" lean-forward="true" selection-start-line="148" selection-start-column="12" selection-end-line="148" selection-end-column="12" />
+        <state relative-caret-position="150">
+          <caret line="10" column="51" lean-forward="true" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="871">
+          <caret line="96" column="69" lean-forward="false" selection-start-line="96" selection-start-column="63" selection-end-line="96" selection-end-column="69" />
           <folding>
-            <element signature="n#style#0;n#div#1;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feed.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="141" column="0" lean-forward="true" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="677">
-          <caret line="148" column="18" lean-forward="false" selection-start-line="148" selection-start-column="18" selection-end-line="148" selection-end-column="18" />
-          <folding>
-            <element signature="n#style#0;n#div#2;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/menu.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="507">
-          <caret line="141" column="0" lean-forward="false" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#4;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Index_files/Index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="538">
-          <caret line="340" column="0" lean-forward="true" selection-start-line="340" selection-start-column="0" selection-end-line="344" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contact_files/contact.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="353" column="1" lean-forward="false" selection-start-line="353" selection-start-column="1" selection-end-line="353" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catering_files/catering.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="375" column="1" lean-forward="false" selection-start-line="375" selection-start-column="1" selection-end-line="375" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bedankt_files/bedankt.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="347" column="1" lean-forward="false" selection-start-line="347" selection-start-column="1" selection-end-line="347" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Index_files/shapeimage_1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/menu_files/menu.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="262" column="21" lean-forward="false" selection-start-line="262" selection-start-column="21" selection-end-line="262" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
