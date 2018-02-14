@@ -5,7 +5,7 @@
     <title>Depot Podjok</title>
     <meta name="description" content="Welkom op de website van eethuis Depot Podjo">
     <meta name="revisit-after" content="30 days">
-
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!--Bootstrap-->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet"
@@ -72,24 +72,24 @@
                     </div>
                 </div>
             </div>
-            <div id="footer_layer">
-                <div class="style_SkipStroke_1 shape-with-text"></div>
-                <div class="footer-container">
-                    <ul>
-                        <li class="footer-item">
-                            Bankastraat 97 - 2585 EJ Den Haag
-                        </li>
-                        <li class="break">-</li>
-                        <li class="footer-item">t. 070 352 31 39</li>
-                        <li class="break">-</li>
-                        <li class="footer-item"><a href="mailto:info@depotpodjok.nl"
-                                                   target="_top">info@depotpodjok.nl</a>
-                        </li>
-                        <li class="break">-</li>
-                        <li class="footer-item"> kvk.nr 55917518</li>
-                    </ul>
+        </div>
+        <div id="footer_layer">
+            <div class="style_SkipStroke_1 shape-with-text"></div>
+            <div class="footer-container">
+                <ul>
+                    <li class="footer-item">
+                        Bankastraat 97 - 2585 EJ Den Haag
+                    </li>
+                    <li class="break">-</li>
+                    <li class="footer-item">t. 070 352 31 39</li>
+                    <li class="break">-</li>
+                    <li class="footer-item"><a href="mailto:info@depotpodjok.nl"
+                                               target="_top">info@depotpodjok.nl</a>
+                    </li>
+                    <li class="break">-</li>
+                    <li class="footer-item"> kvk.nr 55917518</li>
+                </ul>
 
-                </div>
             </div>
         </div>
     </div>
@@ -99,10 +99,12 @@
     ================================================== -->
 <!-- Placed at the end of the document so the pages load faster -->
 <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js"
-        integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n"></script>
+        integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n"
+        crossorigin="anonymous"></script>
 <script>window.jQuery || document.write('<script src="../lib/js/bootstrap/jquery.min.js"><\/script>')</script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js"
-        integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb"></script>
+        integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb"
+        crossorigin="anonymous"></script>
 <script src="../lib/js/bootstrap/bootstrap.js"></script>
 <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
 <script src="../lib/js/bootstrap/ie10-viewport-bug-workaround.js"></script>

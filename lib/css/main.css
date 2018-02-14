@@ -1,5 +1,5 @@
 body {
-    background: grey;
+    background: #420000;
     margin: 0;
 }
 
@@ -17,8 +17,6 @@ body {
 .footer-container {
     background-color: #420000;
     text-align: center;
-    height: 30px;
-    margin-top: 10px;
 }
 
 .footer-container ul li {
@@ -30,11 +28,6 @@ body {
 .footer-container ul li a {
     color: white;
 }
-
-.footer-container ul {
-    display: inline;
-}
-
 .inherit{
     display: inherit;
 }
@@ -81,12 +74,6 @@ body {
     display: block;
 }
 
-#footer_layer {
-    height: 80px;
-    position: relative;
-    margin-top: 50px;
-}
-
 .content {
     margin-bottom: 15px;
     margin-left: auto;
@@ -96,10 +83,6 @@ body {
     position: relative;
     word-wrap: break-word;
     text-align: left;
-}
-
-.content-bg {
-    background: transparent url(../images/WERKUDARA.png) repeat scroll top left;
 }
 
 .navbar-light .navbar-nav .nav-link {
@@ -134,10 +117,6 @@ body {
     font-family: 'Copperplate-Light', 'Copperplate', 'Trebuchet MS', fantasy;
     font-weight: 100;
     font-size: 69px;
-}
-
-#header_layer {
-    height: 260px;
 }
 
 .row .left img {
@@ -259,9 +238,7 @@ body {
 
 .style_SkipStroke {
     background: transparent url(../images/header_img.jpg) no-repeat scroll center center;
-    height: 200px;
     width: 100%;
-    padding: 20px;
 }
 
 .style_SkipStroke_1 {
@@ -556,13 +533,21 @@ li.full-width {
 
 @media only screen and (max-width: 768px) {
     .header-title h1{
-        font-size: 48px;
+        font-size: 40px;
     }
     .desktop{
         display: none;
     }
     .mobile{
         display: block;
+        padding-bottom: 10px;
+    }
+
+    #mobile{
+        display: block;
+    }
+    #desktop{
+        display: none;
     }
 
     .header-text{
@@ -577,17 +562,16 @@ li.full-width {
     }
 
     .footer-container{
-        height: 50px;
+        height: 60px;
     }
 
     .footer-container ul li {
         font-size: 12px;
     }
     .container{
-        padding:0;
+        background: transparent url(../images/WERKUDARA.png) repeat scroll top left;
     }
     .main-image{
-        padding:0;
     }
 }
 
@@ -596,9 +580,20 @@ li.full-width {
     .desktop{
         display: flex;
         padding: 20px;
+        padding-bottom: 100px;
     }
     .mobile{
         display: none;
+    }
+    #mobile{
+        display: none;
+    }
+    #desktop{
+        display: block;
+    }
+
+    .content-bg {
+        background: transparent url(../images/WERKUDARA.png) repeat scroll top left;
     }
 
 }
