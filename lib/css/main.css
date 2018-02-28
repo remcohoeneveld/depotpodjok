@@ -1,5 +1,5 @@
 body {
-    background: #420000;
+    background: #E5E1A4;
     margin: 0;
 }
 
@@ -7,6 +7,10 @@ body {
     text-align: center;
 }
 
+ul{
+    margin: 0;
+    padding: 0;
+}
 .contact .text-content{
     width: 100%;
     height: auto;
@@ -50,7 +54,7 @@ body {
 }
 
 .text-content {
-    background: rgb(231, 228, 159);
+    background: #FFF8BE;
     padding: 10px;
 }
 
@@ -449,7 +453,6 @@ li.full-width {
 }
 
 #contact-area form legend{
-    background: rgb(231, 228, 159);
     width: 100%;
     text-align: center;
     padding: 10px;
@@ -543,13 +546,6 @@ li.full-width {
         padding-bottom: 10px;
     }
 
-    #mobile{
-        display: block;
-    }
-    #desktop{
-        display: none;
-    }
-
     .header-text{
         margin-top: 17px;
     }
@@ -562,7 +558,7 @@ li.full-width {
     }
 
     .footer-container{
-        height: 60px;
+        height: 90px;
     }
 
     .footer-container ul li {
@@ -585,15 +581,13 @@ li.full-width {
     .mobile{
         display: none;
     }
-    #mobile{
-        display: none;
-    }
-    #desktop{
-        display: block;
-    }
 
     .content-bg {
-        background: transparent url(../images/WERKUDARA.png) repeat scroll top left;
+        background: transparent url(../images/WERKUDARA.png) no-repeat left center fixed;
+        -webkit-background-size: initial;
+        -moz-background-size: initial;
+        -o-background-size: initial;
+        background-size: initial;
     }
 
 }
